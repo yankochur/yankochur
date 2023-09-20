@@ -25,3 +25,5 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/yankochur/badges/large)
+
+![Sy's github stats](https://github-readme-stats.vercel.app/api?username=yankochur&show_icons=true&title_color=DC143C&icon_color=DC143C&text_color=9f9f9f&bg_color=151515&count_private=true)
