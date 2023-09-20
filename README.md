@@ -1,11 +1,15 @@
 <img src="https://i.imgur.com/Bm0NyZc.png" align="left" style="width: 100%" />  
 
-### - - - - -
+### `
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yan-kochur-0b6859248)](https://www.linkedin.com/in/yan-kochur-0b6859248)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.uanby@gmail.com)](mailto:mr.uanby@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/yankochur)]([mailto:mr.uanby@gmail.com](https://t.me/yankochur))
 
 ### Dev. stack
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
