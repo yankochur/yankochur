@@ -9,14 +9,12 @@
 ### Dev. stack
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 
 ### About me:
