@@ -10,6 +10,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
