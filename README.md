@@ -8,9 +8,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=MySQL)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
