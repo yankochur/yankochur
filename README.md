@@ -8,7 +8,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
@@ -20,8 +21,8 @@
 
 ### About me:
 - 🏦 Since the beginning of my development training, I have been creating bots for telegram and discord
-- 📝 The areas of backend development that interest me the most are blockchain and AI
-- 🖼️ Before Python development, I was interested in graphic design for ***more than 6 years***, of which 3 were commercial
+- 📝 The areas of backend development that interest me the most are blockchain and ML
+- 🖼️ Before Python development, I was interested in graphic design for ***more than 6 years***, of which ***3 were commercial***
 - 💬 In addition to graphic design, I learned how to work with 3D, video editing, web design, ui/ux and book layouts
 - 👯 We can connect to play some games of Chess ♟
 
