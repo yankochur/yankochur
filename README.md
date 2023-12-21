@@ -10,11 +10,13 @@
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-000?&logo=SQLAlchemy)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Celery](https://img.shields.io/badge/-Celery-000?&logo=Celery)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-000?&logo=Pydantic)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
