@@ -1,3 +1,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yankochur)](https://www.linkedin.com/in/yankochur)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.uanby@gmail.com)](mailto:mr.uanby@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/yankochur)](https://t.me/yankochur)
+---
+
+### Stack
+![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python&logoColor=406cdc)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=for-the-badge&logo=FastAPI&logoColor=6af8ba)
+![Flask](https://img.shields.io/badge/-Flask-0d1117?style=for-the-badge&logo=Flask&logoColor=565656)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=for-the-badge&logo=PostgreSQL&logoColor=283bf0)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=MongoDB&logoColor=4f9736)
+![Redis](https://img.shields.io/badge/-Redis-0d1117?style=for-the-badge&logo=Redis&logoColor=d41e1e)
+![Celery](https://img.shields.io/badge/-Celery-0d1117?style=for-the-badge&logo=Celery&logoColor=42dc7c)
+![NGINX](https://img.shields.io/badge/-NGINX-0d1117?style=for-the-badge&logo=NGINX&logoColor=32b918)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=for-the-badge&logo=Docker&logoColor=2b87d4)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0d1117?style=for-the-badge&logo=Kubernetes&logoColor=4679e1)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-0d1117?style=for-the-badge&logo=SQLAlchemy&logoColor=565656)
+![elasticsearch](https://img.shields.io/badge/-elasticsearch-0d1117?style=for-the-badge&logo=elasticsearch&logoColor=fff832)
+![PyDantic](https://img.shields.io/badge/-PyDantic-0d1117?style=for-the-badge&logo=PyDantic&logoColor=f04aff)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=for-the-badge&logo=Linux&logoColor=ff9000)
